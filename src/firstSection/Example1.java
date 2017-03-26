@@ -5,8 +5,6 @@ package firstSection;
  * @Description
  *  Selection Sorting 
  *  
- *  students : 10
- *  grade : 
  */
 public class Example1 {
 
